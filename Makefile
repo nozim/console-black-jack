@@ -1,5 +1,7 @@
 USER_DIR = .
 
+
+// test comment here
 clean:
 	rm -rf *.o *.a tests game
 
